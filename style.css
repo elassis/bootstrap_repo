@@ -1,3 +1,19 @@
+*{
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+}
+
+
 .space-between{
    margin: 88px 0; 
+}
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height:400px;
+    justify-content: center;
 }
