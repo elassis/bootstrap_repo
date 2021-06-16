@@ -1,0 +1,39 @@
+*{
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+}
+
+
+.space-between{
+   margin: 88px 0;
+   justify-content: center; 
+   display: flex;
+}
+.languagges{
+    margin-top: 50px;
+}
+
+
+.navbar-nav >.nav-item{
+    margin-left:20px;
+}
+
+@media only screen and (min-width:993px){
+
+    .content-contact > h1, .content-contact > p {
+        margin: auto;
+        width: 50%;
+    }
+    .contact-form{
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+        height:400px;
+        justify-content: center;
+        margin: auto;
+    }
+}
+
