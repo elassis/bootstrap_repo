@@ -1,9 +1,9 @@
 # Bootstrap Project
-* In this Repo we will create the bootstrap structure based website as a prototype of the portfolio.
+* In this Repo we will recreate our portfolio website based in Bootstrap Framework.
 
 # Objectives 🏁:
-* Apply knowledge about bootstrap framework
-* develop the skills to work with bootstrap framework
+* Apply knowledge about Bootstrap framework
+* develop the skills to work with Bootstrap framework
 
 # Built With 💻:
 * HTML
