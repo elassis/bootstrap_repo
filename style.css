@@ -8,7 +8,9 @@ li{
 
 
 .space-between{
-   margin: 88px 0; 
+   margin: 88px 0;
+   justify-content: center; 
+   display: flex;
 }
 .contact-form{
     display: flex;
@@ -16,4 +18,11 @@ li{
     width: 50%;
     height:400px;
     justify-content: center;
+    margin: auto;
 }
+
+.content-contact > h1, .content-contact > p {
+    margin: auto;
+    width: 50%;
+}
+
